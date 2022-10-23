@@ -1,0 +1,15 @@
+button{
+    width: 120px;
+    height: 90px;
+    font-size: 30px;
+}
+
+.btnTwiceSize{
+    width: 240px;
+    height: 90px;
+    font-size: 30px;
+}
+
+.result{
+    font-size: 40px;
+}
